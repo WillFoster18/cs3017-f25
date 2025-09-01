@@ -1,2 +1,2 @@
 # cs3017-f25
-Basic web page for cs3017
+Basic web page for CS-3017
