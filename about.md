@@ -22,7 +22,7 @@ It's very tough to do the first two during the school year but I have my electri
 
 A beautiful photograph taken from a high mountain range when the Dew point and outside temperature 
 coencided to create a fog.
-![Public Highway Photograph!](/assets/images/unsplash.jpg)
+![Public Highway Photograph!](/images/unsplash.jpg)
 
 
 Image taken from:
