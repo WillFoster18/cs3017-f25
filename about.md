@@ -18,14 +18,15 @@ It's very tough to do the first two during the school year but I have my electri
 ## My Favouite Quote
 
 >“Show me a guy who's afraid to look bad, and I'll show you a guy you can beat every time.”
- **Lou Brock** ***Speech***
+ **Lou Brock,** *Speech*
 
 A beautiful photograph taken from a high mountain range when the Dew point and outside temperature 
 coencided to create a fog.
-![Public Highway Photograph](/assets/images/unsplash.jpg)
+![Public Highway Photograph!](/assets/images/unsplash.jpg)
+
 
 Image taken from:
-[Public Highway Photograph](https://unsplash.com/s/photos/apps)
+[UnSplash](https://unsplash.com/s/photos/apps)
 
 -----
 
